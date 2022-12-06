@@ -1,0 +1,1 @@
+classical cryptology  des and aes  the rsa system  digital signatures  key exchange  the discrete logarithm problem and its applications and secret sharing lectures  exercises  homework the main purpose of this course is to introduce the student to central concepts and methods in cryptology 

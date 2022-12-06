@@ -1,0 +1,1 @@
+sets  relations  induction and recursion  modulo arithmetic  combinatorics  propositional logic  predicate logic and proof systems lectures and exercise classes to provide an essential part of the mathematical foundations for the modern engineering sciences and illustrate its applications there is an english version of this course  01019 discrete mathematics

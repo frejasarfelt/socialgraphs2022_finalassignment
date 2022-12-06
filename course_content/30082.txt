@@ -1,0 +1,1 @@
+  digital design  vhdl programming  digital interface    embedded system design  microcontroller hardware and software cdio project to enable the students to combine hardware programming and digital design in an integrated hardware software solution 

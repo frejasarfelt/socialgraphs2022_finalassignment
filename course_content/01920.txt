@@ -1,0 +1,1 @@
+gaussian elimination  matrix algebra  determinants  eigenvalues and eigenvectors  systems of linear differential equations  engineering applications of linear algebralectures and classroom workto provide the students with basic knowledge of linear algebra and systems of linear differential equations as well as experience with using these concepts to solve engineering problems

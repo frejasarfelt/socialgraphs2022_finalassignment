@@ -1,0 +1,1 @@
+domain engineering  requirements engineering  software architeture  software design  implementation techniques  test  validation  and verification  software development process models  project management lectures  tutorials and student presentations  along with a project to give the students skills in professional development of large software systems 

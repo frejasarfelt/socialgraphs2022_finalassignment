@@ -1,0 +1,1 @@
+state of the art algorithmic techniques and models for massive data sets  including advanced data structures and approximation algorithms lectures and exercises the course literature consists mainly of scientific articles to know  apply  analyze  and design algorithms for massive data sets using state of the art algorithmic techniques in the area 

@@ -1,0 +1,1 @@
+rings and finite fields  the advanced encryption standard  message authentication codes  discrete logarithm algorithms  factorisation algorithms  elliptic curves modulo a prime number  ideas of provable security lectures and exercises to introduce the students to advanced concepts and techniques in cryptology the course is a sequel to the course 01410 
